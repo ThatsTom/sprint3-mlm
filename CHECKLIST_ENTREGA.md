@@ -1,0 +1,22 @@
+# Checklist do 3º Entregável
+
+- [x] Notebook atualizado e executável.
+- [x] Dataset disponível em CSV.
+- [x] Scaling com StandardScaler.
+- [x] Encoding com OneHotEncoder.
+- [x] Pelo menos dois modelos.
+- [x] Regressão Logística.
+- [x] Random Forest.
+- [x] Holdout obrigatório 80/20.
+- [x] Separação estratificada.
+- [x] Accuracy.
+- [x] Precision.
+- [x] Recall.
+- [x] F1-score.
+- [x] AUC ROC.
+- [x] Tuning básico com GridSearchCV.
+- [x] Tuning realizado apenas no conjunto de treino.
+- [x] Interpretação das variáveis com Permutation Importance.
+- [x] Gráficos de comparação, ROC, matriz de confusão, tuning e importância.
+- [x] README com instruções.
+- [ ] Publicar em um repositório GitHub e colar o link na plataforma da faculdade.

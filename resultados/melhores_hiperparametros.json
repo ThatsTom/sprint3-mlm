@@ -1,0 +1,5 @@
+{
+  "modelo__max_depth": 4,
+  "modelo__min_samples_leaf": 6,
+  "modelo__n_estimators": 300
+}
